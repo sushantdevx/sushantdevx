@@ -33,15 +33,15 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 ## 📈 GitHub Stats (Java-Focused)  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantdevx&layout=compact&langs_count=6&theme=radical&hide=css,html,javascript" alt="Most Used Languages (Java-Focused)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SK9712&layout=compact&langs_count=6&theme=radical&hide=css,html,javascript" alt="Most Used Languages (Java-Focused)" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantdevx&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="sushantdevx GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SK9712&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="sushantdevx GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantdevx&theme=radical" alt="sushantdevx GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SK9712&theme=radical" alt="sushantdevx GitHub Streak" />
 </p>
 
 ---
@@ -52,16 +52,16 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
   </a>
   <a href="https://github.com/sushantdevx/saml2-authentication-service-keycloak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=saml2-authentication-service-keycloak&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=saml2-authentication-service-keycloak&theme=radical" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/sushantdevx/langgraph4j">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=langgraph4j&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=langgraph4j&theme=radical" />
   </a>
   <a href="https://github.com/sushantdevx/smart-parameter-plugin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=smart-parameter-plugin&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=smart-parameter-plugin&theme=radical" />
   </a>
 </p>
 
