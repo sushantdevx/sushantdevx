@@ -49,7 +49,7 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 ## 🚀 Featured Repositories  
 <p align="left">
   <a href="https://github.com/sushantdevx/detecting-malicious-url-using-character-level-cnn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SK9712&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
   </a>
   <a href="https://github.com/sushantdevx/saml2-authentication-service-keycloak">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=saml2-authentication-service-keycloak&theme=radical" />
