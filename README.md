@@ -19,6 +19,7 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
@@ -28,42 +29,6 @@ I am a **Full-Stack Java Developer** passionate about **system design, security,
 
 🔹 **Love Working With:** JVM performance tuning, Kafka, distributed systems  
 🔹 **Exploring:** Bug bounty, AI-driven security, advanced Java optimizations  
-
----
-
-## 📈 GitHub Stats (Java-Focused)  
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantdevx&layout=compact&theme=radical&hide=html,css" /> 
-</p> 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantdevx&show_icons=true&theme=radical&count_private=true" /> 
-</p> 
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=sushantdevx&theme=radical" /> 
-</p>
-
----
-
-## 🚀 Featured Repositories  
-<p align="left">
-  <a href="https://github.com/sushantdevx/detecting-malicious-url-using-character-level-cnn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=detecting-malicious-url-using-character-level-cnn&theme=radical" />
-  </a>
-  <a href="https://github.com/sushantdevx/saml2-authentication-service-keycloak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=saml2-authentication-service-keycloak&theme=radical" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/sushantdevx/langgraph4j">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=langgraph4j&theme=radical" />
-  </a>
-  <a href="https://github.com/sushantdevx/smart-parameter-plugin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantdevx&repo=smart-parameter-plugin&theme=radical" />
-  </a>
-</p>
 
 ---
 
